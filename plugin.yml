@@ -1,0 +1,8 @@
+name: Level_Zones
+version: 1.0
+main: me.MnMaxon.LevelZones.Main
+author: MnMaxon
+commands:
+  LevelZones:
+    description: Displays Help!
+    aliases: [levelzone, lz]
